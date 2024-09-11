@@ -23,6 +23,7 @@ automatically submitted.
 
 ## Compatibility
 GeminiBoost has been tested to be compatible with Arc for MacOS v1.59.0 and Google Gemini update 2024.09.04
+
 Arc for Windows version pending boost support.
 ## Feedback
 If you have any feedback, suggestions, or issues with GeminiBoost, please feel free to open an issue on GitHub.
