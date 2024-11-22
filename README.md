@@ -1,5 +1,5 @@
 # GeminiBoost
-GeminiBoost is a javascript boost for the Google Gemini beta that creates a shortcut to Gemini from a new tab.
+GeminiBoost is a javascript boost for Google Gemini that creates a shortcut to Gemini from a new tab in Arc.
 ## Installation
 To install GeminiBoost, follow these steps:
 
@@ -22,8 +22,8 @@ Google Gemini can be initialised using the "Gemini" keyword followed by tab. A q
 automatically submitted.
 
 ## Compatibility
-GeminiBoost has been tested to be compatible with Arc for MacOS v1.59.0 and Google Gemini update 2024.09.04
+GeminiBoost has been tested to be compatible with Arc for MacOS v1.59.0 and Google Gemini update 2024.11.19
 
-Arc for Windows version pending boost support.
+Arc for Windows version [pending boost support]( https://x.com/cifilter/status/1850868958699647427).
 ## Feedback
 If you have any feedback, suggestions, or issues with GeminiBoost, please feel free to open an issue on GitHub.
