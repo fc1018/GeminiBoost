@@ -6,7 +6,7 @@ async function queryEntry(question) {
 
         // Find button and click
         setTimeout(() => {
-            let submit = document.querySelector('button[aria-label="Send message"]');
+            let submit = document.querySelector('button.send-button.submit[aria-label="Enviar mensaje"]');
             if (submit) {
                 submit.click();
             }
