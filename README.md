@@ -22,7 +22,7 @@ Google Gemini can be initialised using the "Gemini" keyword followed by tab. A q
 automatically submitted.
 
 ## Compatibility
-GeminiBoost has been tested to be compatible with Arc for MacOS v1.95.1 and Google Gemini update 2025.05.20
+GeminiBoost has been tested to be compatible with Arc for MacOS 1.104.0 (65533) and Google Gemini update 2025.06.19
 
 Arc for Windows version [pending boost support]( https://x.com/cifilter/status/1850868958699647427).
 ## Feedback
